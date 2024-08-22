@@ -38,6 +38,9 @@ async function handleTargetElement(targetElement: HTMLInputElement) {
 			if (param == 'si') {
 				params.delete(param)
 			}
+			if (param == 'si') {
+				params.delete(param)
+			}
 		}
 		url.search = params.toString()
 	}
