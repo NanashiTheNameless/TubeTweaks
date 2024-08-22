@@ -38,7 +38,7 @@ async function handleTargetElement(targetElement: HTMLInputElement) {
 			if (param == 'si') {
 				params.delete(param)
 			}
-			if (param == 'si') {
+			if (param == 'pp') {
 				params.delete(param)
 			}
 		}
